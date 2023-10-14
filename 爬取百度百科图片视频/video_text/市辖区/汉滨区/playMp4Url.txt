@@ -1,0 +1,6 @@
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-XmmSGwqTr85eadRD\/b9aba3cb004495a37fa4383fb83d337b.mp4
+https:\/\/vd3.bdstatic.com\/mda-mc5rs88ukgrs1n3k\/v1-cae\/hd\/mda-mc5rs88ukgrs1n3k.mp4
+https:\/\/vd3.bdstatic.com\/mda-kd1xnc9ibj6816n6\/v1-cae\/mda-kd1xnc9ibj6816n6.mp4?playlist=null","oriPlayTime":46,"playTime":"00:46","isVertical":0,"isPay":0,"isHardCore":0},{"secondId":40330114,"secondType":3,"secondTitle":"\u7535\u5f71\u300a\u5148\u751f\u300b\u5728\u5b89\u5eb7\u5e02\u6c49\u6ee8\u533a\u5f00\u673a","mediaId":"","mediaGroupName":"","coverPic":{"imageShareUrl":"https:\/\/bkimg.cdn.bcebos.com\/smart\/4d086e061d950a7b0208d94a6c8175d9f2d3562c63a6-bkimg-process,v_1,rw_16,rh_9,maxl_1280,pad_1?x-bce-process=image\/format,f_auto","imageUrl":"https:\/\/bkimg.cdn.bcebos.com\/smart\/4d086e061d950a7b0208d94a6c8175d9f2d3562c63a6-bkimg-process,v_1,rw_16,rh_9,maxl_1280,pad_1?x-bce-process=image\/format,f_auto","src":"4d086e061d950a7b0208d94a6c8175d9f2d3562c63a6"},"playUrl":"https:\/\/vd3.bdstatic.com\/mda-jdhn0eimr2xy60nk\/hd\/mda-jdhn0eimr2xy60nk.mp4
+https:\/\/vd3.bdstatic.com\/mda-jdhn0eimr2xy60nk\/hd\/mda-jdhn0eimr2xy60nk.mp4
+https:\/\/vd3.bdstatic.com\/mda-kgnjpafaaga14np1\/hd\/mda-kgnjpafaaga14np1.mp4
+https:\/\/vd3.bdstatic.com\/mda-jh8c5nhk5pwmanjr\/hd\/mda-jh8c5nhk5pwmanjr.mp4

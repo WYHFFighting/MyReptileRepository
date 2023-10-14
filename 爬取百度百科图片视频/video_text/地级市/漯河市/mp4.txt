@@ -1,0 +1,16 @@
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-XNUXzKHv5Z824nu1\/e0a526a077d8f18e68a8564fa5f114f8.mp4
+https:\/\/vd3.bdstatic.com\/mda-pbk2qq9vaergjd4v\/576p\/h264\/1676944677618546563\/mda-pbk2qq9vaergjd4v.mp4
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-OfuJpOML8EqV0Umy\/68f0196ba57006ee02b36c948620f4c5.mp4
+https:\/\/vd3.bdstatic.com\/mda-mcdenc4ugnina1wy\/hd\/mda-mcdenc4ugnina1wy.mp4
+https:\/\/vd3.bdstatic.com\/mda-nit1fpx0ndr8cxc1\/576p\/h264\/1664326937720222626\/mda-nit1fpx0ndr8cxc1.mp4
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-XNUXzKHv5Z824nu1\/e0a526a077d8f18e68a8564fa5f114f8.mp4
+https:\/\/vd3.bdstatic.com\/mda-pbk2qq9vaergjd4v\/576p\/h264\/1676944677618546563\/mda-pbk2qq9vaergjd4v.mp4
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-OfuJpOML8EqV0Umy\/68f0196ba57006ee02b36c948620f4c5.mp4
+https:\/\/vd3.bdstatic.com\/mda-mcdenc4ugnina1wy\/hd\/mda-mcdenc4ugnina1wy.mp4
+https:\/\/vd3.bdstatic.com\/mda-nit1fpx0ndr8cxc1\/576p\/h264\/1664326937720222626\/mda-nit1fpx0ndr8cxc1.mp4
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-XNUXzKHv5Z824nu1\/e0a526a077d8f18e68a8564fa5f114f8.mp4
+https:\/\/vd3.bdstatic.com\/mda-pbk2qq9vaergjd4v\/576p\/h264\/1676944677618546563\/mda-pbk2qq9vaergjd4v.mp4
+https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-OfuJpOML8EqV0Umy\/68f0196ba57006ee02b36c948620f4c5.mp4
+https:\/\/vd3.bdstatic.com\/mda-mcdenc4ugnina1wy\/hd\/mda-mcdenc4ugnina1wy.mp4
+https:\/\/vd3.bdstatic.com\/mda-nit1fpx0ndr8cxc1\/576p\/h264\/1664326937720222626\/mda-nit1fpx0ndr8cxc1.mp4
+https:\/\/vd3.bdstatic.com\/mda-kg6sfpaw2mejv3zw\/mda-kg6sfpaw2mejv3zw.mp4?playlist=%5B%22hd%22%5D","hls":"","mini_mp4":"","mini_hls":"","h265Mp4":"","h265MiniMp4":""},"duration":210,"isVertical":0,"cornerMark":1,"nid":"3901036292490286863","vid":"3901036292490286863","threadId":"1038000032042639","bjhAppId":"1608401075948850","bjhName":"\u4e34\u988d\u53bf\u5e7f\u64ad\u7535\u89c6\u53f0","sourcePrefixInfos":"sv_","isHardCore":0}}],"body":[],"position":0,"isShowHead":true}],"secondKnow":[{"data":{"isShow":true,"normalShow":true,"list":[{"secondId":138660,"secondType":1,"secondTitle":"\u534e\u4eba\u9891\u9053\u5e26\u4f60\u79d2\u61c2\u6f2f\u6cb3\u5e02","mediaId":"mda-XNUXzKHv5Z824nu1","mediaGroupName":"second_default","coverPic":{"imageShareUrl":"https:\/\/bkimg.cdn.bcebos.com\/smart\/fcfaaf51f3deb48f8c54a3e5b2492d292df5e0fed2c8-bkimg-process,v_1,rw_16,rh_9,maxl_1280,pad_1?x-bce-process=image\/format,f_auto","imageUrl":"https:\/\/bkimg.cdn.bcebos.com\/smart\/fcfaaf51f3deb48f8c54a3e5b2492d292df5e0fed2c8-bkimg-process,v_1,rw_16,rh_9,maxl_1280,pad_1?x-bce-process=image\/format,f_auto","src":"fcfaaf51f3deb48f8c54a3e5b2492d292df5e0fed2c8"},"playUrl":"https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-XNUXzKHv5Z824nu1\/6ffba94025e535aaadb9b63be10864dc.m3u8","playMp4Url":"https:\/\/baikevideo.cdn.bcebos.com\/media\/mda-XNUXzKHv5Z824nu1\/e0a526a077d8f18e68a8564fa5f114f8.mp4
