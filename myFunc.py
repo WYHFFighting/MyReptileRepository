@@ -5,10 +5,10 @@ from bs4 import BeautifulSoup
 import regex as re
 import time
 import os
-from config import headers
+from .config import headers
 import pprint
 import json
-from regular import ptn_del_sqr_bkt
+from .regular import ptn_del_sqr_bkt
 
 
 def write_log(path, cont, mode):
@@ -16,36 +16,81 @@ def write_log(path, cont, mode):
         f.write(cont + "\n")
 
 # 打开链接
-def open_url(url, headers = headers, where = "", proxies = False):
+def open_url(url, type, headers = headers, json_f = False, where = "", proxies = False):
     if not url:
         print("# url is None #", url)
         return None
-    requests.packages.urllib3.disable_warnings()
+    # requests.packages.urllib3.disable_warnings()
     max_try = 200
     now_try = 0
     output_sign = False
-    while True:
-        try:
-            if proxies:
-                html = requests.get(url = url, headers = headers, verify=False, timeout=(50, 50), proxies = proxies)
-            else:
-                html = requests.get(url, verify = False, timeout = (50, 50), headers = headers)
-            break
-        except:
-            now_try += 1
-            if not os.path.exists("./log"):
-                os.makedirs("./log")
-            if not re.search("^http", url):
-                write_log("./log/wrong_urls.txt", url, "a+")
-                return None
-            if now_try > max_try:
-                print(url, "url opening attempts exceeded the maximum error")
-                write_log("./log/open_url_problem_log.txt", url, "a+")
-                return None
-            if not output_sign:
-                print(url, "-----{} open url sleep-----".format(where))
-                output_sign = True
-            time.sleep(0.1)
+    if type == 'get':
+        while True:
+            try:
+                if json_f:
+                    if proxies:
+                        html = requests.get(url = url, verify = False, headers = headers, json = json_f,
+                                            timeout=(50, 50), proxies = proxies)
+                    else:
+                        html = requests.get(url = url, verify = False, headers = headers, json = json_f,
+                                            timeout = (50, 50))
+                else:
+                    if proxies:
+                        html = requests.get(url = url, verify = False, headers = headers, timeout=(50, 50),
+                                            proxies = proxies)
+                    else:
+                        html = requests.get(url = url, verify = False, headers = headers, timeout = (50, 50))
+                break
+            except:
+                now_try += 1
+                if not os.path.exists("./log"):
+                    os.makedirs("./log")
+                if not re.search("^http", url):
+                    write_log("./log/wrong_urls.txt", url, "a+")
+                    return None
+                if now_try > max_try:
+                    print(url, "url opening attempts exceeded the maximum error")
+                    write_log("./log/open_url_problem_log.txt", url, "a+")
+                    return None
+                if not output_sign:
+                    print(url, "-----{} open url sleep-----".format(where))
+                    output_sign = True
+                time.sleep(0.1)
+    elif type == 'post':
+        while True:
+            try:
+                if json_f:
+                    if proxies:
+                        html = requests.post(url = url, verify = False, headers = headers, json = json_f,
+                                             timeout = (50, 50), proxies = proxies)
+                    else:
+                        html = requests.post(url = url, verify = False, headers = headers, json = json_f,
+                                             timeout = (50, 50))
+                else:
+                    if proxies:
+                        html = requests.post(url = url, verify = False, headers = headers, timeout = (50, 50),
+                                             proxies = proxies)
+                    else:
+                        html = requests.post(url = url, verify = False, headers = headers, timeout = (50, 50))
+                break
+            except:
+                now_try += 1
+                if not os.path.exists("./log"):
+                    os.makedirs("./log")
+                if not re.search("^http", url):
+                    write_log("./log/wrong_urls.txt", url, "a+")
+                    return None
+                if now_try > max_try:
+                    print(url, "url opening attempts exceeded the maximum error")
+                    write_log("./log/open_url_problem_log.txt", url, "a+")
+                    return None
+                if not output_sign:
+                    print(url, "-----{} open url sleep-----".format(where))
+                    output_sign = True
+                time.sleep(0.1)
+    else:
+        print('type error expected "get" or "post"')
+        return None
 
     return html
 
