@@ -1,0 +1,26 @@
+https://baike.baidu.com/item/%E6%B1%9F%E8%8B%8F/154268
+https://baike.baidu.com/api/second/video/list?secondId=139128&lemmaId=8617495&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%92%8C%E9%BE%99%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74611624&lemmaId=6118697&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E7%81%B5%E6%AD%A6%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=60233440&lemmaId=2445918&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%AE%89%E4%B8%98%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=73389474&lemmaId=5872676&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%8F%B0%E5%B1%B1%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74017710&lemmaId=940170&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%90%AF%E4%B8%9C%E5%B8%82/940170
+https://baike.baidu.com/api/second/video/list?secondId=74983221&lemmaId=8763158&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%85%B4%E5%8C%96%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74611529&lemmaId=2399366&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E8%BF%81%E5%AE%89%E5%B8%82/2399366
+https://baike.baidu.com/api/second/video/list?secondId=72300723&lemmaId=2398373&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E8%BE%9B%E9%9B%86%E5%B8%82/2398373
+https://baike.baidu.com/api/second/video/list?secondId=25477301&lemmaId=2863383&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E4%B8%B4%E6%B5%B7%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74641474&lemmaId=5883576&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E7%93%A6%E6%88%BF%E5%BA%97%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74611573&lemmaId=1602067&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%85%B4%E5%B9%B3%E5%B8%82/1602067
+https://baike.baidu.com/api/second/video/list?secondId=145378&lemmaId=5253576&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%90%8C%E6%B1%9F%E5%B8%82/5253576
+https://baike.baidu.com/api/second/video/list?secondId=138958&lemmaId=179029&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%B0%9A%E5%BF%97%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=139128&lemmaId=8617495&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%92%8C%E9%BE%99%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74611624&lemmaId=6118697&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E7%81%B5%E6%AD%A6%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=60233440&lemmaId=2445918&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%AE%89%E4%B8%98%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=73389474&lemmaId=5872676&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%8F%B0%E5%B1%B1%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74017710&lemmaId=940170&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%90%AF%E4%B8%9C%E5%B8%82/940170
+https://baike.baidu.com/api/second/video/list?secondId=74983221&lemmaId=8763158&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%85%B4%E5%8C%96%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74611529&lemmaId=2399366&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E8%BF%81%E5%AE%89%E5%B8%82/2399366
+https://baike.baidu.com/api/second/video/list?secondId=25477301&lemmaId=2863383&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E4%B8%B4%E6%B5%B7%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74641474&lemmaId=5883576&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E7%93%A6%E6%88%BF%E5%BA%97%E5%B8%82
+https://baike.baidu.com/api/second/video/list?secondId=74611573&lemmaId=1602067&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%85%B4%E5%B9%B3%E5%B8%82/1602067
+https://baike.baidu.com/api/second/video/list?secondId=145378&lemmaId=5253576&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%90%8C%E6%B1%9F%E5%B8%82/5253576
+https://baike.baidu.com/api/second/video/list?secondId=138958&lemmaId=179029&isSensitive=0&scene=pc	https://baike.baidu.com/item/%E5%B0%9A%E5%BF%97%E5%B8%82
